@@ -1,8 +1,7 @@
-# React + Vite
+# MiniDocs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mini docs is a website built with react to store mini documents in an interesting way
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/DarkNinja15/Mini-docs/assets/92748423/1b24aeac-a8c4-45ed-ab45-e49ced48f979
+
